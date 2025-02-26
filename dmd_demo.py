@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 27 09:14:49 2025
 
-demo code for graph DMD
+demo code for graph DMD on node classification tasks, the hyperparameter setting is for CORA only.
 """
 
 import numpy as np
